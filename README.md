@@ -5,4 +5,4 @@ My name is Vasiliki Drosou and I am a Computer Science graduate from the Athens 
 📁 **Projects**
 
 - [Household-Appliances](https://VasilikiDrosou.github.io/Academic-Projects/Household-Appliances/Phase%205/): A shopping website with household appliances.
-- [Student-Recipes](./Student-Recipes): A website with easy and quick recipes for university students.
+- [Student-Recipes](https://VasilikiDrosou.github.io/Academic-Projects/Student-Recipes/): A website with easy and quick recipes for university students.
