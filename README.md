@@ -1,6 +1,6 @@
 # Hi there!👋
 
-My name is Vasiliki Drosou and I am a Computer Science graduate from the Athens University of Economics and Business (AUEB). During my studies, I completed various projects and assignments using Python, Java, C++, HTML, CSS and SQL. This repository showcases some of the work I have done throughout my academic journey. Feel free to explore!
+My name is Vasiliki Drosou and I am a Computer Science graduate from the Athens University of Economics and Business (AUEB). During my studies, I completed various projects and assignments using Python, Java, C++, HTML, CSS, JavaScript and SQL. This repository showcases some of the work I have done throughout my academic journey. Feel free to explore!
 
 📁 **Projects**
 
